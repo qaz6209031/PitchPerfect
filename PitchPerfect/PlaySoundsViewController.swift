@@ -10,7 +10,7 @@ import UIKit
 
 class PlaySoundsViewController: UIViewController {
     
-    var recordAudioURL: URL!
+    var recordedAudioURL : URL!
 
     override func viewDidLoad() {
         super.viewDidLoad()
